@@ -1,0 +1,3 @@
+[submodule "worldhaven"]
+	path = worldhaven
+	url = https://github.com/any2cards/worldhaven.git
